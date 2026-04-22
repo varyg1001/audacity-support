@@ -109,7 +109,7 @@ Your Linux distribution (for example Ubuntu, Fedora or Debian) may have an Audac
 Access this version from the Software Center, App Store or similar software on your computer or try the following commands:&#x20;
 
 * Ubuntu, Debian, Pop\_OS!, Linux Mint: `sudo apt install audacity`
-* RHEL, Fedora: `sudo yum install audacity`
+* RHEL, Fedora: `sudo dnf install audacity`
 * Arch Linux: `sudo pacman -Syu audacity`
 
 {% hint style="info" %}
